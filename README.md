@@ -2,7 +2,7 @@
 
 ## Running the Sample
 
-1. Download the [vsix]() and install it in VS Code by opening the [command palette](https://code.visualstudio.com/docs/getstarted/userinterface#_command-palette) and running the "Extensions: Install from VSIX..." command.
+1. Download the [vsix](https://github.com/wwlorey/vscode-msal-device-code-sample/blob/master/vscode-msal-device-code-sample-0.0.1.vsix) and install it in VS Code by opening the [command palette](https://code.visualstudio.com/docs/getstarted/userinterface#_command-palette) and running the "Extensions: Install from VSIX..." command.
 
 	![install from vsix](images/install-from-vsix.png)
 
